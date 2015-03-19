@@ -1,6 +1,8 @@
 ###
 
-Build in response to my Medium article, "Swipe vs. drag, are they more than just a distance?" The data used to set certain values were given in said article. 
+Build in response to my Medium article – https://medium.com/@joshmtucker/adding-another-dimension-4fe2ca0b54d1 
+
+The data used to set certain values were given in said article. 
 
 SPECIAL THANKS
 ––––––––––––––
